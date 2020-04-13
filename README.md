@@ -1,15 +1,5 @@
-PS4: Implementing cross-validation
+Implementing cross-validation
 ================
-
-## What’s due when?
-
-By Friday 2/28 at 9am you must do the following:
-
-1.  Submit all your work (see next section) on GitHub. Any teams making
-    submissions with timestamps after the above due date/time will be
-    penalized 25% per day.
-2.  Complete the [peer evaluation
-    form](https://docs.google.com/forms/d/e/1FAIpQLSdA8lCnvglgDl5pWWN_epULa7LJSX3mDp0eA8_lLD1MFiQoIA/viewform).
 
 ## Your work
 
@@ -82,49 +72,3 @@ From most to least important:
         “optimal” `cp` value?
       - Does your fitted CART model using the “optimal” `cp` return a
         valid Kaggle score?
-
-## Team Info
-
-Randomly assigned
-teams:
-
-| ps4        | name                    | github             | email                       |
-| :--------- | :---------------------- | :----------------- | :-------------------------- |
-| ps4-team01 | Elle Jo Whalen          | ewhalen1           | <ewhalen@smith.edu>         |
-| ps4-team01 | Zoya Azhar              | zazharr            | <zazhar@smith.edu>          |
-| ps4-team02 | Carol Liu               | CarolLiuSifan      | <cliu13@smith.edu>          |
-| ps4-team02 | Serene Lee              | slee26             | <slee26@smith.edu>          |
-| ps4-team03 | Lidia Ortiz             | lortiz34           | <lortiz34@smith.edu>        |
-| ps4-team03 | Sarah Glidden           | saglidden          | <saglidden@smith.edu>       |
-| ps4-team04 | Elisabeth Nesmith       | enesmith           | <enesmith@smith.edu>        |
-| ps4-team04 | Roshni Patnayakuni      | Roshni-Patnayakuni | <rpatnayakuni@smith.edu>    |
-| ps4-team05 | Alina Barylsky          | abarylsky          | <abarylsky@smith.edu>       |
-| ps4-team05 | Riyao Yan               | riyaoy             | <ryan@smith.edu>            |
-| ps4-team06 | Iris Wei                | iiiimsp            | <iwei@smith.edu>            |
-| ps4-team06 | Lauren Forando          | lforando           | <lforando@smith.edu>        |
-| ps4-team07 | Jeny Kwon               | jnkwon             | <jkwon@smith.edu>           |
-| ps4-team07 | Jinghan Gao             | Jinghan18          | <jgao@smith.edu>            |
-| ps4-team08 | Lizette Carpenter       | lcarpenter20       | <lcarpenter@smith.edu>      |
-| ps4-team08 | Marisa Blackman         | mhblackman         | <mblackman@smith.edu>       |
-| ps4-team09 | Emma Scott              | esscott            | <esscott@smith.edu>         |
-| ps4-team09 | Irene Xu                | Irene-Xu-mengye    | <mxu50@smith.edu>           |
-| ps4-team10 | Ruby Ru                 | RubyRu             | <rru@smith.edu>             |
-| ps4-team10 | Sandy Shi               | SandyShi-yoyo      | <Sshi57@smith.edu>          |
-| ps4-team11 | Lauren Meyer            | LyraDusk           | <lmeyer@smith.edu>          |
-| ps4-team11 | Sophia Foster           | sophiamaya         | <smfoster@smith.edu>        |
-| ps4-team12 | Lily Diao               | lilydiao           | <ldiao@smith.edu>           |
-| ps4-team12 | Lily Jin                | Lilyyyy54          | <ljin54@smith.edu>          |
-| ps4-team13 | Hannah Snell            | hmsnell            | <hsnell@smith.edu>          |
-| ps4-team13 | Maggie Wang             | maggiexwang        | <xwang73@smith.edu>         |
-| ps4-team14 | Anna Ballou             | aballou16          | <aballou@smith.edu>         |
-| ps4-team14 | Karina Lieb             | karinalieb         | <klieb@smith.edu>           |
-| ps4-team15 | Hana Hirano             | hnhirano           | <hhirano@smith.edu>         |
-| ps4-team15 | Sunshine Schneider      | sunschneider       | <sschneider@smith.edu>      |
-| ps4-team16 | Lucy Zhen               | Lucy-Z-7           | <zhen22x@mtholyoke.edu>     |
-| ps4-team16 | Seren Smith             | Seren-Smith        | <Jlsmith@smith.edu>         |
-| ps4-team17 | Laetitia Huang          | lhuang17           | <lhuang17@smith.edu>        |
-| ps4-team17 | Sarah Weden             | sarahweden         | <sweden@smith.edu>          |
-| ps4-team18 | Eunice Kim              | eukim89            | <ekim89@smith.edu>          |
-| ps4-team18 | Valerie Medina Cebreros | Valerieeee         | <vmedinacebreros@smith.edu> |
-| ps4-team19 | Finn Giardine           | fgiardine          | <fgiardine@smith.edu>       |
-| ps4-team19 | Guy Incognito           | whoishomer         | <gincognito56@smith.edu>    |
